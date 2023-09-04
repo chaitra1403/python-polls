@@ -1,0 +1,11 @@
+title,type,is_add_choices_active,is_voting_active,created_by,created_at,updated_at
+"Survey 1","public",true,false,"User1","2021-07-01","2021-07-02"
+"Poll 2","private",false,true,"User2","2021-06-15","2021-06-16"
+"Quiz 3","public",true,true,"User3","2021-05-20","2021-05-21"
+"Election 4","private",false,false,"User4","2021-04-10","2021-04-11"
+"Survey 5","public",true,true,"User5","2021-03-05","2021-03-06"
+"Poll 6","private",false,true,"User6","2021-02-01","2021-02-02"
+"Quiz 7","public",true,false,"User7","2021-01-25","2021-01-26"
+"Election 8","private",false,true,"User8","2020-12-15","2020-12-16"
+"Survey 9","public",true,true,"User9","2020-11-10","2020-11-11"
+"Poll 10","private",false,false,"User10","2020-10-05","2020-10-06"
