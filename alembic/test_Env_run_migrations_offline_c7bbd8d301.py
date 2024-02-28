@@ -66,6 +66,8 @@ Solution: Restrict the output of SQL commands or ensure they are properly saniti
    - Then ensure that the function handles the exception and does not crash.
 
 roost_feedback [2/28/2024, 8:11:31 AM]:add multi line comments to explain what each functions are doing
+
+roost_feedback [2/28/2024, 8:19:50 AM]:optimise the code
 """
 
 # ********RoostGPT********
